@@ -1,0 +1,23 @@
+# 32 — GLOSSARY
+
+- **Penjualan kotor:** total nilai penjualan sebelum diskon.
+- **Diskon:** pengurang nilai penjualan yang dicatat pada transaksi.
+- **Penjualan bersih:** penjualan kotor dikurangi diskon.
+- **Uang diterima:** penerimaan aktual yang dipisahkan tunai dan non-tunai.
+- **Uang siap setoran:** kas fisik teoritis yang tersedia untuk diserahkan.
+- **Setoran fisik:** uang tunai yang benar-benar diserahkan.
+- **Stok awal:** kuantitas yang ditetapkan sebagai saldo awal.
+- **Restock:** pembelian yang menambah persediaan.
+- **Unit dasar:** satuan terkecil yang menjadi dasar seluruh konversi.
+- **Definisi kemasan:** faktor konversi kemasan ke unit dasar.
+- **Moving Average:** metode biaya rata-rata bergerak untuk stok bermodal diketahui.
+- **Known-cost pool:** stok dengan modal yang dapat diketahui.
+- **Unknown-cost pool:** stok yang kuantitasnya diketahui tetapi modalnya belum diketahui.
+- **HPP:** modal barang yang terjual.
+- **Other income:** pendapatan usaha selain penjualan barang.
+- **Stock variance:** perbedaan antara stok catatan dan hasil fisik.
+- **Event ledger:** rangkaian kejadian yang menjadi sumber kebenaran.
+- **Snapshot:** rekaman hasil periode pada saat ditutup.
+- **Correction event:** event baru yang memperbaiki atau menyesuaikan event sebelumnya.
+- **Uncertainty:** kondisi ketika data belum cukup untuk menyatakan hasil pasti.
+- **Idempotency:** perlindungan agar aksi yang sama tidak tercatat dua kali.
